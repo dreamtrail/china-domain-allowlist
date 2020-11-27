@@ -1,8 +1,7 @@
-\.cn
+/.cn/
 ||00cdn.com
 ||0daydown.com
 ||10010.com
-||10086.cn
 ||115.com
 ||126.com
 ||126.net
