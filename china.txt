@@ -539,4 +539,4 @@
 ||smtcdns.com
 ||xiaohongshu.com
 ||xhscdn.com
-||gitv.com
+||gitv.tv
