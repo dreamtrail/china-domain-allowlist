@@ -540,3 +540,4 @@
 ||xiaohongshu.com
 ||xhscdn.com
 ||gitv.tv
+||flyert.com
